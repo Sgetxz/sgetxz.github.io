@@ -24,8 +24,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "62a8d5ba571cdf44f76d967bb92c6a4f
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "53dfbf5d133e007c197f8cbc8cd1982c",
-"/": "53dfbf5d133e007c197f8cbc8cd1982c",
+"index.html": "ade01490992b9ed1ef3c69685b542946",
+"/": "ade01490992b9ed1ef3c69685b542946",
+"logo_landwehr.png": "dce551aa2feb706d9ce85841a0f12af8",
 "main.dart.js": "48b633f574646f56247c19338aaacb4d",
 "manifest.json": "0e92515d7a8f004d4c70b58d82ef9bea",
 "version.json": "05e2b62dd81c091085fe710a5c7b94cf"};

@@ -22,14 +22,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "62a8d5ba571cdf44f76d967bb92c6a4f
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/favicon.png": "8eab2e8658ea919e0034b39a758c489b",
 "icons/Icon-192.png": "a59267dcb15bf9d03b800a48cbb5e330",
-"icons/Icon-512.png": "8b9f3cd1a210907d00ea3f542a48a473",
+"icons/Icon-512.png": "d9a897e989b43e22d9d6685575c93e83",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3a2f8ee35dba7c7ebdb46fc25247db4c",
-"/": "3a2f8ee35dba7c7ebdb46fc25247db4c",
+"index.html": "439d6ff11e6bf97aeee6475888f33c9f",
+"/": "439d6ff11e6bf97aeee6475888f33c9f",
 "logo_landwehr.png": "dce551aa2feb706d9ce85841a0f12af8",
 "main.dart.js": "675f790c5d7aa614d5eb408cefec323d",
-"manifest.json": "68f5356e8891a1065f10a1254af9d9d6",
+"manifest.json": "81437a5f0debbdc054f1054f4f9d3a70",
 "version.json": "05e2b62dd81c091085fe710a5c7b94cf"};
 // The application shell files that are downloaded before a service worker can
 // start.

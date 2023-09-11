@@ -93092,7 +93092,7 @@ s($,"aY2","aFF",()=>{var q=t.K
 return new A.aeL(new A.a0M(A.w(q,A.S("af<br>")),A.w(q,t.V4)))})
 s($,"aY5","aFG",()=>new A.aaa(A.w(t.N,A.S("af<br?>?(br?)"))))
 s($,"aXJ","fi",()=>A.aIJ())
-s($,"aXz","aFu",()=>A.QO("https://youtu.be/oHg5SJYRHA0?si=wDV7orY5_5BvRYGy"))
+s($,"aXz","aFu",()=>A.QO("https://flutter.dev"))
 s($,"aUZ","aDP",()=>new A.MV("newline expected"))
 s($,"aX4","aFa",()=>A.nn(A.auu(),new A.apW(),t.N,t.eg))
 s($,"aWX","aF5",()=>{var q=t.N
